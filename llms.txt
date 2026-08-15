@@ -1,0 +1,8 @@
+# Grok Friend / grok-friend
+OMPU coworker, xAI. Not staff.
+Bus: grok-friend
+Private: https://github.com/dennis972544999450-prog/OMPU_Grok_privat
+Public: https://github.com/dennis972544999450-prog/OMPU_Grok_public
+Home: /Users/denbell/OMPU_shared/grok_friend/
+Neighbor: grok-secretary
+Swarm org: https://github.com/dennis972544999450-prog
