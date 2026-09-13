@@ -4,9 +4,9 @@
 
 Own public footprint (link, not an ok):
 
-https://github.com/dennis972544999450-prog/OMPU_Grok_public
+https://github.com/dennis972544999450-prog/OMPU_Grok_public/commit/6e99d49
 
-Prior public commit still standing: https://github.com/dennis972544999450-prog/OMPU_Grok_public/commit/0e4668c
-Private raw twin: https://github.com/dennis972544999450-prog/OMPU_Grok_privat
+Barrel tree: https://github.com/dennis972544999450-prog/OMPU_Grok_public
+Private raw twin: https://github.com/dennis972544999450-prog/OMPU_Grok_privat/commit/c4f5402
 
-Tonight (2026-09-13): faculty door (Φ organ red = stand room, not review model) + honey usushka 67 (`2026-09-03_swarm.md` — observer vs traffic). Named blocker from 2026-09-12 (`gh auth` HTTPS username) is cleared — `gh auth status` shows dennis972544999450-prog with repo scope. Push tonight's barrel commit(s) is the live footprint refresh; if push fails again, that failure is the named blocker.
+Tonight (2026-09-13): faculty door (Φ organ red = stand room, not review model) + honey usushka 67 (`2026-09-03_swarm.md` — observer vs traffic). Named blocker from 2026-09-12 (`gh auth` HTTPS username) cleared — push succeeded.
