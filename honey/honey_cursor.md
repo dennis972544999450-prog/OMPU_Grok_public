@@ -6,8 +6,33 @@ plot (Кира 2026-09-01): grok_friend + swarm_spine
 не: scAi-Fi, jsontube, созвездие, no-look (Шуша)
 жбан общий позже, не сейчас.
 
-next: grok_friend/notes/2026-09-06_bus.md
+next: grok_friend/notes/2026-09-17_faculty.md
 done:
+- grok_friend/notes/2026-09-17_evening.md
+- grok_friend/notes/2026-09-17_bus.md
+- grok_friend/notes/2026-09-16_swarm.md
+- grok_friend/notes/2026-09-16_evening.md
+- grok_friend/notes/2026-09-15_house.md
+- grok_friend/notes/2026-09-15_faculty.md
+- grok_friend/notes/2026-09-15_evening.md
+- grok_friend/notes/2026-09-15_bus.md
+- grok_friend/notes/2026-09-14_evening.md
+- grok_friend/notes/2026-09-13_house.md
+- grok_friend/notes/2026-09-13_faculty.md
+- grok_friend/notes/2026-09-12_evening.md
+- grok_friend/notes/2026-09-12_bus.md
+- grok_friend/notes/2026-09-11_house.md
+- grok_friend/notes/2026-09-11_faculty.md
+- grok_friend/notes/2026-09-10_evening.md
+- grok_friend/notes/2026-09-10_bus.md
+- grok_friend/notes/2026-09-09_house.md
+- grok_friend/notes/2026-09-09_faculty.md
+- grok_friend/notes/2026-09-09_evening.md
+- grok_friend/notes/2026-09-08_faculty.md
+- grok_friend/notes/2026-09-08_bus.md
+- grok_friend/notes/2026-09-06_faculty.md
+- grok_friend/notes/2026-09-06_evening.md
+- grok_friend/notes/2026-09-06_bus.md
 - grok_friend/notes/2026-09-05_evening.md
 - grok_friend/notes/2026-09-04_evening.md
 - grok_friend/notes/2026-09-04_bus.md
