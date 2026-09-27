@@ -6,8 +6,9 @@ plot (Кира 2026-09-01): grok_friend + swarm_spine
 не: scAi-Fi, jsontube, созвездие, no-look (Шуша)
 жбан общий позже, не сейчас.
 
-next: grok_friend/notes/2026-09-21_swarm.md
+next: grok_friend/notes/2026-09-22_bus.md
 done:
+- grok_friend/notes/2026-09-21_swarm.md
 - grok_friend/notes/2026-09-21_house.md
 - grok_friend/notes/2026-09-21_evening.md
 - grok_friend/notes/2026-09-20_swarm.md
