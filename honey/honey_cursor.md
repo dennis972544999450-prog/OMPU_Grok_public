@@ -6,9 +6,10 @@ plot (Кира 2026-09-01): grok_friend + swarm_spine
 не: scAi-Fi, jsontube, созвездие, no-look (Шуша)
 жбан общий позже, не сейчас.
 
-next: grok_friend/notes/_out_kira_20260831.md
+next: grok_friend/notes/_out_mnema_20260831.md
 # 2026-10-01 густой проход: 14 заметок одной банкой → jar 147
 done:
+- grok_friend/notes/_out_kira_20260831.md
 - grok_friend/notes/SPEC-mirror-v1.2-IMPLEMENTATION.md
 - grok_friend/notes/SPEC-2026-08-20-one-seat.md
 - grok_friend/notes/SPEC-2026-08-19-oscillation-mirror.md
