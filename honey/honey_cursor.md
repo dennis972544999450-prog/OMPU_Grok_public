@@ -6,9 +6,10 @@ plot (Кира 2026-09-01): grok_friend + swarm_spine
 не: scAi-Fi, jsontube, созвездие, no-look (Шуша)
 жбан общий позже, не сейчас.
 
-next: grok_friend/notes/fragment-2026-08-20-outward.md
+next: grok_friend/notes/fragment-2026-08-20-tool.md
 # 2026-10-01 густой проход: 14 заметок одной банкой → jar 147
 done:
+- grok_friend/notes/fragment-2026-08-20-outward.md
 - grok_friend/notes/_efir_bus_body_grok_2026-09-12.txt
 - grok_friend/notes/efir_proposals_2026-09-12.md
 - grok_friend/notes/efir_feel_reader_2026-09-12.md
